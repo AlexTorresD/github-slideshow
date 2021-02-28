@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+Monkey Ogga booga Mon-Key
 Use the left arrow to go back!
